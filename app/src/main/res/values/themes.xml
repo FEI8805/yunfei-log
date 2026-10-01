@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YunfeiLog" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1A1730</item>
+        <item name="android:navigationBarColor">#FEF7FF</item>
+        <item name="android:windowBackground">#FEF7FF</item>
+    </style>
+</resources>

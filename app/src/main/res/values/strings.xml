@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">云飞日志</string>
+    <string name="channel_name">每日记录提醒</string>
+    <string name="channel_desc">每天提醒你记录当天的工作内容</string>
+    <string name="notif_title">今天的工作还没记录</string>
+    <string name="notif_text">写一句今天做了什么吧，明天就忘了。</string>
+    <string name="notif_reply_hint">直接回复，立即记录…</string>
+    <string name="notif_reply">记录</string>
+</resources>
